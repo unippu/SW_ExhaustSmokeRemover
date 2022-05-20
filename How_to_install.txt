@@ -1,0 +1,4 @@
+1. Open "Stormworks" directory via "Stormworks" liberaly page on the steam client.
+2. Open "Stormworks\rom\graphics\particles" in appeared exproler.
+3. Paste "exhaust.xml" and "exhaust_strip.xml".
+4. Launch the Stormworks.
